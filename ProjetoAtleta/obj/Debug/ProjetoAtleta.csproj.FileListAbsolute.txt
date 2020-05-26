@@ -1,0 +1,10 @@
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe.config
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.exe
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\bin\Debug\ProjetoAtleta.pdb
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csprojAssemblyReference.cache
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.Form1.resources
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.Properties.Resources.resources
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csproj.GenerateResource.cache
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.csproj.CoreCompileInputs.cache
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.exe
+C:\jm\vsc\AA_devweb\ProjetoAtleta\ProjetoAtleta\ProjetoAtleta\obj\Debug\ProjetoAtleta.pdb
